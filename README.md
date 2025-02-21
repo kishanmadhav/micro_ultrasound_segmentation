@@ -1,2 +1,2 @@
 # micro_ultraosund_segmentation
-A lightweight ML model for segmentation of micro ultrasound images.
+A lightweight GAN model based in pix2pix for segmentation of micro ultrasound images.
